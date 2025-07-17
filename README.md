@@ -8,11 +8,8 @@ This project is a chatbot built with Python, leveraging OpenAI’s Chat Completi
 
 ## ✨ Key Features
 
-- **Real-time chat interface**  
-  A responsive front-end built using HTML, CSS, and JavaScript.
-
-- **GPT-powered responses**  
-  Connects to OpenAI’s `gpt-3.5-turbo` or `gpt-4` to generate contextual replies.
+- **Real-time chat interface and GPT-powered responses**  
+  Connects to OpenAI to generate contextual replies.
 
 - **Context-aware dialogue**  
   Maintains conversation history to ensure coherent, flowing interactions.
@@ -22,6 +19,3 @@ This project is a chatbot built with Python, leveraging OpenAI’s Chat Completi
 
 - **Secure API usage**  
   Environment variables are used to protect sensitive information like API keys.
-
-- **Error handling and feedback**  
-  Includes loading indicators and graceful error messages for better UX.

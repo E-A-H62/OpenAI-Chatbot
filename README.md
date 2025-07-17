@@ -1,10 +1,5 @@
 # OpenAI Chatbot
 
-> **Short Description**  
-> A web-based conversational AI project using OpenAI’s Chat Completion API. Built to incorporate context-aware dialogue, prompt-engineering, and real-time interaction—highlighting AI integration skills.
-
----
-
 ## 🚀 Overview
 
 This project is a chatbot built with Python, leveraging OpenAI’s Chat Completion API. It allows users to engage in human-like conversations, demonstrating the student’s skills in API integration and prompt engineering.
